@@ -12,7 +12,7 @@ The project tries to accomplish the following steps:
 - Save best models with their performance metrics
 - Identify most important features influencing the predictions and visualize their impact using SHAP library
 
-All scripts (churn_library.py, churn_library_test_logging.py, churn_library_test_pytest.py) were adjusted to the PEP8 standard using autopep8 module. In addition they all score above 8.0 using pylint clean code module.
+All scripts (`churn_library.py`, `churn_library_test_logging.py`, `churn_library_test_pytest.py`) were adjusted to the PEP8 standard using autopep8 module. In addition they all score above 8.0 using pylint clean code module.
 
 
 ## Files and data description
@@ -41,8 +41,8 @@ The project has the following directory architecture:
 - To run the project, execute the script `python churn_library.py` from the project folder
 - Alternatively, the project can be executed using the jupyter notebook (churn_notebook.ipnyb) for a step-by-step approach
 - The project script churn_library.py can be tested using either of the two test scripts:
-    - churn_library_test_pytest.py can be run with this commad: pytest churn_library_test_pytest.py
-    - churn_library_test_logging.py can be run with this command: python churn_library_test_logging.py  
+    - churn_library_test_pytest.py can be run with this commad: `pytest churn_library_test_pytest.py`
+    - churn_library_test_logging.py can be run with this command: `python churn_library_test_logging.py`  
 
 
 
